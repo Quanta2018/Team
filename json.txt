@@ -1,0 +1,32 @@
+[
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	},
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	},
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	},
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	},
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	},
+	{
+		"image": "Assets/catimage.jpg",
+		"name": "Ariq Basyar",
+		"jabatan": "manusia biasa"
+	}
+]
