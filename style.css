@@ -51,7 +51,6 @@
 }
 
 .quote1st {
-  padding-left: 6%;
   font-family: "Circular-Bold";
   font-size: 50px;
   font-weight: bold;
@@ -63,6 +62,7 @@
 }
 
 .quote2nd {
+  padding-left: 8%;
   font-family: "Circular-Bold";
   font-size: 46px;
   font-weight: bold;
