@@ -28,122 +28,122 @@
 		"image": "Assets/Team/Andrew Theodore Tjondrowidjojo.png",
 		"name": "Andrew Theodore Tjondrowidjojo",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Firdaus Al-Ghifari.png",
 		"name": "Firdaus Al-Ghifari",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Ariell Zaki Prabaswara Ariza.png",
 		"name": "Ariell Zaki Prabaswara Ariza",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Bonar Wilfred.png",
 		"name": "Bonar Wilfred",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Habibullah Akbar.png",
 		"name": "Habibullah Akbar",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Alghifari Taufan Nugroho.png",
 		"name": "Alghifari Taufan Nugroho",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Muhammad Salman Al Farisi.png",
 		"name": "Muhammad Salman Al Farisi",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Kezia Sulami.png",
 		"name": "Kezia Sulami",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/I Made Krisna Dwitama.png",
 		"name": "I Made Krisna Dwitama",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Qadzif Kamil Zahari.png",
 		"name": "Qadzif Kamil Zahari",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Muhammad Luthfi Idrus.png",
 		"name": "Muhammad Luthfi Idrus",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Inigo Ramli.png",
 		"name": "Inigo Ramli",
 		"jabatan": "Engineer"
-	}
+	},
 	{
 		"image": "Assets/Team/Naufal Hilmi Irfandi.png",
 		"name": "Naufal Hilmi Irfandi",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Evando Wihalim.png",
 		"name": "Evando Wihalim",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Rafi Muhammad Daffa.png",
 		"name": "Rafi Muhammad Daffa",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Eugene Brigita Lauw.png",
 		"name": "Eugene Brigita Lauw",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Muhammad Nurkholish.png",
 		"name": "Muhammad Nurkholish",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Tasya Putri Shabira.png",
 		"name": "Tasya Putri Shabira",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Mahdia Aliyya Nuha Kiswanto.png",
 		"name": "Mahdia Aliyya Nuha Kiswanto",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Michael Eliazer.png",
 		"name": "Michael Eliazer",
 		"jabatan": "Content"
-	}
+	},
 	{
 		"image": "Assets/Team/Nur Fauziah Hasanah.png",
 		"name": "Nur Fauziah Hasanah",
 		"jabatan": "Graphic Designer"
-	}
+	},
 	{
 		"image": "Assets/Team/Putri Salsabila.png",
 		"name": "Putri Salsabila",
 		"jabatan": "Graphic Designer"
-	}
+	},
 	{
 		"image": "Assets/Team/Muhammad Dzikra Muzaki.png",
 		"name": "Muhammad Dzikra Muzaki",
 		"jabatan": "Graphic Designer"
-	}
+	},
 	{
 		"image": "Assets/Team/Farizio Kautsar.png",
 		"name": "Farizio Kautsar",
 		"jabatan": "Graphic Designer"
-	}
+	},
 	{
 		"image": "Assets/Team/Muhammad Yoga Mahendra.png",
 		"name": "Muhammad Yoga Mahendra",
