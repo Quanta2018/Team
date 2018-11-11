@@ -30,6 +30,11 @@
 		"jabatan": "Engineer"
 	},
 	{
+		"image": "Assets/Team/Ahmad Haulian Yoga Pratama.png",
+		"name": "Ahmad Haulian Yoga Pratama",
+		"jabatan": "Engineer"
+	},
+	{
 		"image": "Assets/Team/Firdaus Al-Ghifari.png",
 		"name": "Firdaus Al-Ghifari",
 		"jabatan": "Engineer"
