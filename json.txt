@@ -15,8 +15,8 @@
 		"jabatan": "Engineer"
 	},
 	{
-		"image": "Assets/Team/Shafiya Azhani.png",
-		"name": "Shafiya Azhani",
+		"image": "Assets/Team/Shafiya Adzhani.png",
+		"name": "Shafiya Adzhani",
 		"jabatan": "Engineer"
 	},
 	{
